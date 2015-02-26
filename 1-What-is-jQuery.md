@@ -11,6 +11,8 @@ Web development is based on three primary languages:
 
 jQuery is a free, open-source Javascript library that simplifies writing Javascript code, allowing experienced developers to write code faster, and novice developers to include advanced Javascript effects, without deep knowledge of the language. 
 
+## Benefits of Using jQuery
+
 One of the main concerns web developers have is ensuring that the websites or applications they develop look and work well in a variety of web browsers (such as Google Chrome, Mozilla Firefox, Microsoft Internet Explorer, Opera, etc). jQuery functions are developed with cross-browser compatibility in mind.
 
 (**_Give an example of the difference between Javascript and jQuery to highlight the benefit of jQuery_**)
@@ -22,13 +24,28 @@ _(Include an overview of what's covered in the documentation. Explain how other 
 
 _(What benefits of jQuery should I include? Free, open-source, cross-browser compatibility, ease of use, most popular, community, plugins, ???)_
 
-Include links to
-- History
-- Licensing
-- Team
-- Ways to contribute (Divide between beginners: donate -> documentation -> track bugs, etc)
-	- Make donation
-	- Track bugs
-	- Contribute to the code
-	- Contribute to the documentation
-	- Develop plugins
+## Using This Documentation
+
+## Ways to Support jQuery
+
+If you find jQuery or this documentation useful in your web development adventures, please consider contributing in the following ways:
+
+- *Make a donation:* Can't contribute code just yet? A donation is a great way for beginners to give back to the community while they develop their skills
+- *Help with documentation:* Beginners and experts can help fellow learners by improving current documentation 
+- *Track bugs:* Notice something not working as it should? Please report it
+- *Contribute to the code:* If you have the coding skills to improve or build on jQuery's open source code, visit jQuery's Github page 
+- *Develop plugins:* Plugins are additional features or useful applications of jQuery that extend its benefits. Visit the plugins page for inspiration, and contribute your own plugin if you're inclined to do so
+
+_(Make sure you include all links to the relevant pages)_
+
+## The jQuery Team
+
+jQuery is fortunate to have a wonderful group of human beings contribute to it in a variety of ways. Visit the [Team page](https://jquery.org/team/) to learn more about the jQuery Team, the roles they play in the jQuery Foundation, and their accomplishments beyond jQuery.
+
+## The History of jQuery
+
+Interested in how jQuery developed over time? Dig into jQuery's history by visiting the [History page](https://jquery.org/history/).
+
+## Licensing
+
+The jQuery source code and website are licensed under the [MIT license](http://en.wikipedia.org/wiki/MIT_License). For more information on licensing terms, visit the [License page](https://jquery.org/license/).

@@ -34,4 +34,10 @@ Therefore, good jQuery documentation needs to explain what jQuery is, basic synt
 
 While writing out this documentation I will explicitly write out my apprehensions, which I will iron out as the project develops. But it's important for me to do this to ensure clarity of thought and that problems are dealt with.
 
+## My Goal
+
+I want to make it easier for absolute beginners to be able to navigate web dev resources without getting stuck, and to be able to create websites and applications as soon as possible (ideally, while they're learning to code). 
+
+I feel like I'm drifting into passive reading as opposed to active learning (read + code). How can I overcome this? And how can the documentation encourage immediate coding.
+
 
